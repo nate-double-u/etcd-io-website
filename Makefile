@@ -18,6 +18,7 @@ check-links: production-build link-checker-setup run-link-checker
 
 # Adding additional link checks based on https://github.com/grpc/grpc.io/blob/main/Makefile
 check-internal-links: production-build link-checker-setup run-link-checker
+	bin/htmltest --conf .htmltest.yml
 
 check-all-links: production-build link-checker-setup
 	bin/htmltest --conf .htmltest.external.yml

@@ -150,4 +150,4 @@ etcd sends a snapshot of its complete key-value store to refresh slow followers 
 [api-mvcc]: learning/api.md#revisions
 [maintenance-compact]:  op-guide/maintenance.md#history-compaction
 [maintenance-defragment]: op-guide/maintenance.md#defragmentation
-[maintenance-disarm]: ../etcdctl/README.md#alarm-disarm
+[maintenance-disarm]: https://github.com/etcd-io/etcd/tree/master/etcdctl#alarm-disarm

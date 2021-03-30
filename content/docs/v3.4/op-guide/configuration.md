@@ -457,13 +457,13 @@ Follow the instructions when using these flags.
 [reconfig]: runtime-configuration.md
 [discovery]: clustering.md#discovery
 [iana-ports]: http://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.txt
-[proxy]: /docs/v2/proxy
-[restore]: /docs/v2/admin_guide#restoring-a-backup
+[proxy]: /docs/v2.3/proxy
+[restore]: /docs/v2.3/admin_guide#restoring-a-backup
 [security]: ../security
 [systemd-intro]: http://freedesktop.org/wiki/Software/systemd/
 [tuning]: ../tuning.md#time-parameters
 [sample-config-file]: https://github.com/etcd-io/etcd/blob/release-3.4/etcd.conf.yml.sample
-[recovery]: ../recovery#disaster-recovery
+[recovery]: ../recovery
 
 ### --experimental-peer-skip-client-san-verification
 + Skip verification of SAN field in client certificate for peer connections. This can be helpful e.g. if

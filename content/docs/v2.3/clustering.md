@@ -434,8 +434,8 @@ To make understanding this feature easier, we changed the naming of some flags, 
 
 [client]: https://github.com/etcd-io/etcd/tree/master/client/v2
 [client-discoverer]: https://godoc.org/github.com/coreos/etcd/client#Discoverer
-[conf-adv-client]: configuration.md#-advertise-client-urls
-[conf-listen-client]: configuration.md#-listen-client-urls
+[conf-adv-client]: configuration.md#--advertise-client-urls
+[conf-listen-client]: configuration.md#--listen-client-urls
 [discovery-proto]: discovery_protocol.md
 [fall-back]: proxy.md#fallback-to-proxy-mode-with-discovery-service
 [proxy]: proxy.md

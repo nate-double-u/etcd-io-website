@@ -158,6 +158,6 @@ etcd sends a snapshot of its complete key-value store to refresh slow followers 
 [benchmark]: https://github.com/coreos/etcd/tree/master/tools/benchmark
 [benchmark-result]: https://github.com/etcd-io/etcd/blob/master/Documentation/op-guide/performance.md
 [api-mvcc]: learning/api.md#revisions
-[maintenance-compact]:  op-guide/maintenance.md#history-compaction
+[maintenance-compact]:  op-guide/maintenance.md#history-compaction-v3-api-key-value-database
 [maintenance-defragment]: op-guide/maintenance.md#defragmentation
-[maintenance-disarm]: ../etcdctl/README.md#alarm-disarm
+[maintenance-disarm]: https://github.com/etcd-io/etcd/tree/master/etcdctl#alarm-disarm

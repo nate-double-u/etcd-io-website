@@ -289,8 +289,8 @@ Follow the instructions when using these flags.
 [reconfig]: runtime-configuration.md
 [discovery]: clustering.md#discovery
 [iana-ports]: http://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.txt
-[proxy]: ../v2/proxy.md
-[restore]: ../v2/admin_guide.md#restoring-a-backup
+[proxy]: /docs/v2.3/proxy
+[restore]: /docs/v2.3/admin_guide#restoring-a-backup
 [security]: security.md
 [systemd-intro]: http://freedesktop.org/wiki/Software/systemd/
 [tuning]: ../tuning.md#time-parameters

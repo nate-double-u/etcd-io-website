@@ -462,7 +462,7 @@ Follow the instructions when using these flags.
 [reconfig]: runtime-configuration.md
 [discovery]: clustering.md#discovery
 [iana-ports]: http://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.txt
-[proxy]: /docs/v2/proxy
+[proxy]: /docs/v2.3/proxy
 [restore]: /docs/v2/admin_guide#restoring-a-backup
 [security]: ../security
 [systemd-intro]: http://freedesktop.org/wiki/Software/systemd/
